@@ -4,6 +4,11 @@
 
 Já trabalhei como atendente de fast food e servente de limpeza em condominio.
 
+## CURSOS JÁ FEITOS:
+
+Pacote office, windows basico, 
+
+
 
   
 ## MINHAS REDES SOCIAIS:
