@@ -1,12 +1,8 @@
 ## OLA! ME CHAMO OSWALDO, CONHECIDO COMO LORD NECO
 
-## EXPERIENCIAS:
-
-Já trabalhei como atendente de fast food e servente de limpeza em condominio.
-
 ## CURSOS JÁ FEITOS:
 
-Pacote office, windows basico, 
+Pacote office, windows 10, operador web nivel médio.  
 
 
 
