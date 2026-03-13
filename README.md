@@ -2,7 +2,11 @@
 
 ## CURSOS JÁ FEITOS:
 
-Pacote office, windows 10, operador web nivel médio.  
+Pacote office, windows 10, operador de micro computadores nivel médio.  
+
+## CURSANDO:
+
+FULL STACK 
 
 
 
