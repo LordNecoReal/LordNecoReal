@@ -22,7 +22,7 @@ Full stack
 
 ## MODO GAMER:
 
-<a href="https://discord.gg/7AK5m9cNfU" target="_blank"><img src="[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://static.retroachievements.org/assets/images/ra-icon.webp)" target="_blank"></a> 
+<a href="https://retroachievements.org/user/LordNeco" target="_blank"><img src="https://static.retroachievements.org/assets/images/ra-icon.webp" target="_blank"></a> 
 
 
   
