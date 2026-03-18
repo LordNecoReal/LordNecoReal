@@ -1,5 +1,5 @@
 ## OLA! ME CHAMO OSWALDO, CONHECIDO COMO LORD NECO
-
+---
 ## CURSOS JÁ FEITOS:
 
 Pacote office, windows 10, operador de micro computadores nivel médio.  
