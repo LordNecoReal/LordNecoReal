@@ -3,7 +3,7 @@
 ## CURSOS JÁ FEITOS:
 
 Pacote office, windows 10, operador de micro computadores nivel médio.  
--
+--
 ## CURSANDO:
 
 Full stack 
