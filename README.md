@@ -8,7 +8,7 @@ Pacote office, windows 10, operador de micro computadores nivel médio.
 
 Full stack 
 
-
+-
 
   
 ## MINHAS REDES SOCIAIS:
