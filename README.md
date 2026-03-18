@@ -19,14 +19,14 @@ Full stack
   <a href="https://www.youtube.com/@lordnecoyoutuber?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
 <a href="https://discord.gg/7AK5m9cNfU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
 
-## MODO GAMER:
+## MODO GAMER REDES:
+
+<div> 
 
 <a href="https://retroachievements.org/user/LordNeco" height="100" width="100" target="_blank"><img src="https://static.retroachievements.org/assets/images/ra-icon.webp" heigth target="_blank"></a> 
 
-
-
-  
 </div>
 
 <picture align="center">
