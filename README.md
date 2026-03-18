@@ -22,7 +22,8 @@ Full stack
 
 ## MODO GAMER:
 
-<a href="https://retroachievements.org/user/LordNeco" target="_blank"><img src="https://static.retroachievements.org/assets/images/ra-icon.webp" target="_blank"></a> 
+<a href="https://retroachievements.org/user/LordNeco" height="100" width="100" target="_blank"><img src="https://static.retroachievements.org/assets/images/ra-icon.webp" heigth target="_blank"></a> 
+
 
 
   
