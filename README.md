@@ -47,3 +47,7 @@ Full stack
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordNecoReal/LordNecoReal/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LordNecoReal/LordNecoReal/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=212121&height=120&section=header"/>
+</div>
