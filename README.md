@@ -14,8 +14,6 @@ Pacote office, windows 10, operador de micro computadores nivel médio.
 
 Full stack 
 
-
-
   
 ## MINHAS REDES SOCIAIS:
 
@@ -49,9 +47,6 @@ Full stack
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LordNecoReal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-
 
 <div>
 <picture align="center">
@@ -62,18 +57,12 @@ Full stack
 
 </div>
 
-###
 
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordNecoReal/LordNecoReal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordNecoReal/LordNecoReal/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LordNecoReal/LordNecoReal/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
 
 
