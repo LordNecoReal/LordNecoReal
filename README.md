@@ -4,17 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Parkinsans&weight=500&pause=500&color=d35400&size=30&center=true&vCenter=true&width=1000&lines=Me+chamo+Oswaldo,+vulgo+Lord+Neco;+Sou+um+eterno+estudante+sempre+em+busca+de+conhecimento.)](https://git.io/typing-svg)
 
-
+###
 
 ## CURSOS JÁ FEITOS:
 
 Pacote office, windows 10, operador de micro computadores nivel médio.  
------------------------------------------------------------------------
+###
 ## CURSANDO:
 
 Full stack 
 
-
+###
 
   
 ## MINHAS REDES SOCIAIS:
